@@ -1,0 +1,6 @@
+{
+  "name": "Moraingy - Combat 2D Malagasy",
+  "description": "Un jeu de combat 2D local à 2 joueurs, inspiré du Moraingy traditionnel de Madagascar et enrichi d'un univers fantasy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
